@@ -1,7 +1,7 @@
-👋 Hi, I'm @jrfred88
-👀 I'm interested in Android Apps
-🌱 I'm learning Flutter
-📫 Crateús-CE
+👋 Hi, I'm @jrfred88 <br>
+👀 I'm interested in Android Apps <br>
+🌱 I'm learning Flutter <br>
+📫 Crateús-CE <br>
 
 <!---
 jrfred88/jrfred88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
